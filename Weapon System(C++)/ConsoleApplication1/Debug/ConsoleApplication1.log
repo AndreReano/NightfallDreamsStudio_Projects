@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(209): error C2065: 'w': undeclared identifier
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(210): error C2065: 'w': undeclared identifier
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(210): error C2227: left of '->cost' must point to class/struct/union/generic type
+  c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(210): note: type is 'unknown-type'
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): error C2065: 'w': undeclared identifier
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): error C2227: left of '->weaponName' must point to class/struct/union/generic type
+  c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): note: type is 'unknown-type'
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(214): error C2065: 'w': undeclared identifier
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(215): error C2065: 'w': undeclared identifier
+c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(215): error C2227: left of '->cost' must point to class/struct/union/generic type
+  c:\users\100803048\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(215): note: type is 'unknown-type'
