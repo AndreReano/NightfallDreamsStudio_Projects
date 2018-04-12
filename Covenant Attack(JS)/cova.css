@@ -1,0 +1,35 @@
+
+#back{
+    width: auto;
+    height: auto;
+}
+
+#canvas {
+    position: absolute;
+    display: block;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#score{
+    top: 0;
+    font-size: 40px;
+    color: #c4d000;
+    position: relative;
+    text-align: center;
+}
+
+#time{
+    font-size: 40px;
+    color: #c50004;
+    position: relative;
+    text-align: center;
+    top: 700px;
+}
+
+body{
+    background-image: url("../Covenant Attack(JS)/img/spaceBG.jpg");
+}
